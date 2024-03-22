@@ -8,7 +8,7 @@ print (square(10,2))
 
 람다를 사용하여 square 변수에 두 값을 제곱하도록 지정하여 출력
 
-###Quiz
+Quiz
 
 ```
 numbers = [111,26,37,48]
@@ -22,9 +22,9 @@ print(result)
 numbers 리스트를 지정한 후 필터에서 람다를 사용하여 2로 나눈 값의 나머지 0이 되는 수를 result에 저장하여 출력
 
 
-###과제
+과제
 
-####흐름도
+흐름도
 ![KakaoTalk_20240322_203600197](https://github.com/sonsm0318/0321/assets/160005229/d4e401c7-ffec-450c-bf33-3011cbe820f5)
 
 
